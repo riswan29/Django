@@ -5,7 +5,7 @@
 * package : django v.4.1
 
 ## Latihan 2
-* membuat blog sederhana menggunakan django 4.0
+* membuat blog sederhana menggunakan django 4.1
 * add libraray pillow untuk img post
 * membuat admin menggunakan django
 * configurasi model ke database (sqlite)
