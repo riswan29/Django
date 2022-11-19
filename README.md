@@ -11,4 +11,5 @@
 * configurasi model ke database (sqlite)
 * membuat fitur postingan sederhana
 
-
+    * membuat fitur login, signup dan juga logout sederhana
+    * membuat button pada header untuk login signup dan juga logout
